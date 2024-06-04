@@ -1,4 +1,4 @@
-package USACO.Algorithms.Bubble_sort;
+package USACO.Algorithms.Bubble_Sort;
 
 public class Bubble {
     
