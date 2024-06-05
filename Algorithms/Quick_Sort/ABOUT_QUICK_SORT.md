@@ -9,3 +9,4 @@ Quick Sort Algorithm is based on the <u><span style="color: orange;">Divide and 
 ![QuickSort](../../images/quicksort_4.png)
 
 You can learn more at [Geek for Geeks](https://www.geeksforgeeks.org/quick-sort/)
+
