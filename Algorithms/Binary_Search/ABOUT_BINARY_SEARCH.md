@@ -16,3 +16,10 @@ Binary Search is a simple <u><span style="color: orange;">searching algorithm</s
 ![Binary Search](../../images/binary_5.png)
 
 You can learn more about it on [Geek for Geeks](https://www.geeksforgeeks.org/binary-search/).
+
+## Time Complexity
+Best Case: O(1)
+
+Average Case: O(log n)
+
+Worst Case: O(log n)
